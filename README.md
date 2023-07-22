@@ -14,4 +14,4 @@ Also don't forget to install the libraries:
 - pip install pywin32
 - pip install pyserial
 
-[Tutorial](https://www.youtube.com/watch?v=3n36yUvP1gk)
+[Tutorial](https://www.youtube.com/watch?v=3n36yUvP1gk) (I will make a new one in the future since Riot took it down)
